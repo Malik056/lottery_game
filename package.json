@@ -4,6 +4,7 @@
   "description": "math the balls",
   "main": "index.js",
   "scripts": {
+    "serve": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
