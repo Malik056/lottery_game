@@ -1,0 +1,25 @@
+{
+  "name": "lottery_game",
+  "version": "1.0.0",
+  "description": "math the balls",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Malik056/lottery_game.git"
+  },
+  "keywords": [
+    "lottery",
+    "game",
+    "console",
+    "game"
+  ],
+  "author": "Muhammad Taha",
+  "license": "LICENSE",
+  "bugs": {
+    "url": "https://github.com/Malik056/lottery_game/issues"
+  },
+  "homepage": "https://github.com/Malik056/lottery_game#readme"
+}
